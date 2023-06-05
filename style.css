@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(172, 179, 216);
+}
+
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 75vh;
+    color: rgb(121, 118, 151);
+}
+
+span{
+    font-size: 4em;
+}
+
+button{
+    border-radius: 15px;
+    border: none;
+    cursor: pointer;
+    padding: 10px 20px;
+    margin: 7px;
+}
